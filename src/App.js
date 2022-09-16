@@ -1,11 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
+import Square from './Square';
 
 function App() {
   return (
-    <div className="App">
-      <H1>cws here</H1>
-    </div>
+    <Square/>
   );
 }
 
